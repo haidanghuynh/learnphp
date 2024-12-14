@@ -10,6 +10,7 @@
 </head>
 
 <body>
+    a
     <form method="post" action="insertcustomer.php" enctype="multipart/form-data">
 
         <div class="input-group mb-3">
